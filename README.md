@@ -4,7 +4,10 @@
  
  I'm currently learning:
 ## Doctorate
-Yet no 
+### Possibly candidate for the areas of:
+ - Data Science
+ - Applied mathematics
+ - Electrical and Electronic Engineering
 
 ## Master's degree 
  - Engineering and Space Systems Management
@@ -31,13 +34,24 @@ Yet no
  - Machine Learning Engineer 
  - Statistical Analysis
 
+## Certifications
+
 ## Programming Languages
 ### Back-end
  - Python 
  - JAVA
  - SCALA
- - 
+
+
+### Front-end
+ - HTML
+ - CSS
+ - JavaScript
+
+
 ## Database
+ - PostgreeSQL
+
 
 ## Infrastructure and Networks
 
