@@ -1,6 +1,6 @@
 # Hi there 🦅
 ## I'am Marcelo Antonio Azeredo da Rocha
-# I'm currently workinkg with Data Enginer and Data Architect.
+ I'm currently workinkg as an Data Enginer and Data Architect.
 <!--
 **oengmarcelo/oengmarcelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
